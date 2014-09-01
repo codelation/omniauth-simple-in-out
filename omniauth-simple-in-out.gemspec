@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = OmniAuth::SimpleInOut::VERSION
   spec.authors       = ["Matthew Sullivan"]
   spec.email         = ["msull92@gmail.com"]
-  spec.summary       = %q{Omniauth strategy for Simple In/Out}
+  spec.summary       = "Simple In/Out OAuth2 Strategy for OmniAuth."
   spec.homepage      = ""
   spec.license       = "MIT"
 
