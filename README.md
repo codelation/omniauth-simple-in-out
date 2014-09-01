@@ -1,4 +1,4 @@
-# OmniAuth::SimpleInOut
+# OmniAuth Simple In/Out
 
 This gem contains the [Simple In/Out](https://www.simpleinout.com) [APIv2](https://www.simpleinout.com/developers) [OAuth2](http://oauth.net/2/) strategy for [OmniAuth](https://github.com/intridea/omniauth).
 
@@ -23,7 +23,7 @@ $ gem install omniauth-simple-in-out
 ```
 
 ## Usage
-To integrate with your existing OmniAuth setup you will need to do the following depending on your situation.
+To integrate with your existing OmniAuth setup you will need to do the following depending on your situation. Read the OmniAuth docs for detailed instructions: https://github.com/intridea/omniauth
 
 ### Rails
 If you are using OmniAuth by itself then you will need a `config/initializers/omniauth.rb` file with contents similar to the following:
