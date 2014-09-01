@@ -1,4 +1,5 @@
 # OmniAuth Simple In/Out
+[![Gem Version](https://badge.fury.io/rb/omniauth-simple-in-out@2x.png)](http://badge.fury.io/rb/omniauth-simple-in-out)
 
 This gem contains the [Simple In/Out](https://www.simpleinout.com) [APIv2](https://www.simpleinout.com/developers) [OAuth2](http://oauth.net/2/) strategy for [OmniAuth](https://github.com/intridea/omniauth).
 
