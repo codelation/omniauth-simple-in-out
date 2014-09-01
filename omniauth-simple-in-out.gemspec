@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "omniauth/simple_in_out/version"
+require "omniauth-simple-in-out/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "omniauth-simple-in-out"
-  spec.version       = Omniauth::SimpleInOut::VERSION
+  spec.version       = OmniAuth::SimpleInOut::VERSION
   spec.authors       = ["Matthew Sullivan"]
   spec.email         = ["msull92@gmail.com"]
   spec.summary       = %q{Omniauth strategy for Simple In/Out}

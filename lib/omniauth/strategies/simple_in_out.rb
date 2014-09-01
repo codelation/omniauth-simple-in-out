@@ -1,6 +1,6 @@
 require "omniauth/strategies/oauth2"
 
-module Omniauth
+module OmniAuth
   module Strategies
     class SimpleInOut < OmniAuth::Strategies::OAuth2
       # set the name of the site
